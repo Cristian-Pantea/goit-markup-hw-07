@@ -1308,8 +1308,6 @@
     align-items: center;
   } */
 
-  .skill-icons {
-  }
   .footer-section {
     display: flex;
     background-color: #2e2f42;
@@ -1610,7 +1608,7 @@
     gap: 10px;
   }
 
-}
+
   .skills-list {
     font-family: "Roboto", sans-serif;
     font-weight: 400;
@@ -1710,6 +1708,7 @@
     color: #434455;
     background-color: #fff;
   }
+
   .links-card {
     gap: 24px;
   }
@@ -1733,13 +1732,18 @@
     letter-spacing: 0.02em;
     color: #434455;
   }
+
   .global-header {
     display: flex;
     align-items: center;
     padding-left: 16px;
     height: 72px;
-  }
+  } 
 }
+
+
+
+
 
 /* Stilizare pentru mobile */
 @media screen and (max-width: 320px) {
